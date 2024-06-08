@@ -1,3 +1,9 @@
 
-d
-java:S2094"BRemove this empty class, write its code or make it an "interface".(›¶íüÿÿÿÿ8·¼Üûı1
+p
+java:S1068"-Remove this unused "firstName" private field.(š„¦¿8˜ÒÔÁÿ1J$17b3cd13-da26-4451-9bc3-1adb4cbb5318
+t
+java:S1068",Remove this unused "lastName" private field.(ºàÑïúÿÿÿÿ8™ÒÔÁÿ1J$d5c1ea90-dbe4-4ba5-a767-857d5ff6fe60
+r
+java:S1068"*Remove this unused "initId" private field.(Æ“½¸ıÿÿÿÿ8™ÒÔÁÿ1J$3c8fe61f-8d43-485c-a821-35da1780ef0e
+q
+java:S1068".Remove this unused "personalId" private field.(Ìã·í8™ÒÔÁÿ1J$62171c44-b7bd-4b9a-931f-6afc589096ca

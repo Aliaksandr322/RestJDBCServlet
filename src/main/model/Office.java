@@ -7,10 +7,16 @@ public class Office {
 
     private int id;
     private String address;
-    private String updatedTs;
-    private String createdTs;
-    //TODO Many to One employee
+    // Many to One employee
     private List<Employee> employeeList;
+
+    public Office(){}
+
+    public Office(int id, String address, List<Employee> employeeList) {
+        this.id = id;
+        this.address = address;
+        this.employeeList = employeeList;
+    }
 
     public int getId() {
         return id;
@@ -28,22 +34,6 @@ public class Office {
         this.address = address;
     }
 
-    public String getUpdatedTs() {
-        return updatedTs;
-    }
-
-    public void setUpdatedTs(String updatedTs) {
-        this.updatedTs = updatedTs;
-    }
-
-    public String getCreatedTs() {
-        return createdTs;
-    }
-
-    public void setCreatedTs(String createdTs) {
-        this.createdTs = createdTs;
-    }
-
     public List<Employee> getEmployeeList() {
         return employeeList;
     }
@@ -57,19 +47,11 @@ public class Office {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Office office = (Office) o;
-        return id == office.id && Objects.equals(address, office.address) && Objects.equals(updatedTs, office.updatedTs) && Objects.equals(createdTs, office.createdTs) && Objects.equals(employeeList, office.employeeList);
+        return id == office.id && Objects.equals(address, office.address) && Objects.equals(employeeList, office.employeeList);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(id, address, updatedTs, createdTs, employeeList);
-    }
-
-    public Office(int id, String address, String updatedTs, String createdTs, List<Employee> employeeList) {
-        this.id = id;
-        this.address = address;
-        this.updatedTs = updatedTs;
-        this.createdTs = createdTs;
-        this.employeeList = employeeList;
+        return Objects.hash(id, address, employeeList);
     }
 }

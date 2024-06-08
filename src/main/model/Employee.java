@@ -1,38 +1,31 @@
 package model;
 
-import java.sql.Date;
+import java.util.List;
 import java.util.Objects;
+import java.util.Set;
 
 public class Employee {
 
     private int id;
     private String name;
     private String address;
-    private Date createTs;
-    private Date updateTs;
-    //TODO Many to One
+    //Many to One
     private Office office;
+    //One to One
+    private Passport passport;
+    // Many to Many
+    private List<Role> roleSet;
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Employee employee = (Employee) o;
-        return id == employee.id && Objects.equals(name, employee.name) && Objects.equals(address, employee.address) && Objects.equals(createTs, employee.createTs) && Objects.equals(updateTs, employee.updateTs) && Objects.equals(office, employee.office);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(id, name, address, createTs, updateTs, office);
-    }
-
-    public Employee(int id, String name, String address, Date createTs, Date updateTs, Office office) {
+    public Employee(int id, String name, String address, Office office, Passport passport, List<Role> roleSet) {
         this.id = id;
         this.name = name;
         this.address = address;
-        this.createTs = createTs;
-        this.updateTs = updateTs;
         this.office = office;
+        this.passport = passport;
+        this.roleSet = roleSet;
+    }
+    public Employee(){
+
     }
 
     public int getId() {
@@ -59,27 +52,40 @@ public class Employee {
         this.address = address;
     }
 
-    public Date getCreateTs() {
-        return createTs;
-    }
-
-    public void setCreateTs(Date createTs) {
-        this.createTs = createTs;
-    }
-
-    public Date getUpdateTs() {
-        return updateTs;
-    }
-
-    public void setUpdateTs(Date updateTs) {
-        this.updateTs = updateTs;
-    }
-
     public Office getOffice() {
         return office;
     }
 
     public void setOffice(Office office) {
         this.office = office;
+    }
+
+    public Passport getPassport() {
+        return passport;
+    }
+
+    public void setPassport(Passport passport) {
+        this.passport = passport;
+    }
+
+    public List<Role> getRoleSet() {
+        return roleSet;
+    }
+
+    public void setRoleSet(List<Role> roleSet) {
+        this.roleSet = roleSet;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Employee employee = (Employee) o;
+        return id == employee.id && Objects.equals(name, employee.name) && Objects.equals(address, employee.address) && Objects.equals(office, employee.office) && Objects.equals(passport, employee.passport) && Objects.equals(roleSet, employee.roleSet);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, name, address, office, passport, roleSet);
     }
 }

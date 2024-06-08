@@ -1,3 +1,5 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(«Õ©è8˜âÛûı1
+s
+java:S1068"+Remove this unused "address" private field.(÷§ùÿÿÿÿ8ÓÓÁÿ1J$ee532daf-8865-40ac-97b5-69bc635ddb8a
+x
+java:S1068	"0Remove this unused "employeeList" private field.(Ô¿Ããûÿÿÿÿ8ÓÓÁÿ1J$66ab330b-daa7-4d35-9926-35898e097822

@@ -1,0 +1,21 @@
+
+	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Í•èËÿ1J$2141fcbe-5c8b-41ae-b468-b244cb5cba32
+	java:S1122"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î•èËÿ1J$fd87d00f-6168-4b5a-acdb-bd83fe640628
+	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î•èËÿ1J$3389b829-0366-4ecd-b9c1-2accaf22c0d8
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î•èËÿ1J$b0e9adbf-2aec-47df-bfec-5a6ea5cc6302
+	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î•èËÿ1J$8b6f7d25-00b5-465d-94b2-b81e43140640
+	java:S112€"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ï•èËÿ1J$b03807a2-18a7-47cf-a787-7ffa353bf906
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ï•èËÿ1J$32f75f7f-7b45-4a1e-9911-c68c3887145d
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îåº£8Ø•èËÿ1J$ff3f75c0-c6dd-4d3c-9566-de1d86924284
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Á­‡Ô8Ú•èËÿ1J$690746f8-64d0-4e9d-8c00-4378a13d6b31
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ù–Ãßıÿÿÿÿ8Ú•èËÿ1J$fbfff756-2d97-41cf-a37d-5284e9f9b52b
+„
+java:S1126="AReplace this if-then-else statement by a single return statement.(Ãÿ§ï8ã•èËÿ1J$ec655fdb-18e4-44c3-85d1-f508c187b846
+„
+java:S1126M"AReplace this if-then-else statement by a single return statement.(«ñÍü8ç•èËÿ1J$58ca2c05-b290-4f00-9b69-1d98802ce2ca
+b
+java:S6905\"Don't use the query "SELECT *".(Õä××8ï•èËÿ1J$90e9a208-8279-4d28-9170-688db0b5d4b5
+s	java:S106"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8ù•èËÿ1J$222f8588-4381-46ff-b58f-726ee19b4064

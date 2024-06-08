@@ -1,0 +1,10 @@
+
+	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¬©†Êÿ1J$9b88d617-4f04-4da3-8cfe-4627718a4ccd
+n
+java:S11681"+Return an empty collection instead of null.(¥¹ï8†Ö‘Åÿ1J$28f66d09-91dc-4fb8-81b9-2b755b70df2a
+M
+java:S1128"+Remove this unused import 'model.Employee'.(ÍûŸÓúÿÿÿÿ8ßÄ‡Êÿ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ßÄ‡Êÿ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ßÄ‡Êÿ1
