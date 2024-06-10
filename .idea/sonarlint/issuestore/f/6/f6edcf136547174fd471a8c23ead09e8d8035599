@@ -1,0 +1,19 @@
+
+ú	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷±è«8›≠–êÄ2J$b3e6ea72-ccbd-4bcf-a453-261b083460a0
+É	java:S125 "<This block of commented-out lines of code should be removed.(–∏ÿé˛ˇˇˇˇ8Ó≠–êÄ2J$27b3b926-fb5a-4e7c-ad62-874609a3758d
+Ø
+java:S1989/"lHandle the following exception that could be thrown by "setCharacterEncoding": UnsupportedEncodingException.(±å©¿8Ì≠–êÄ2J$7ec07e80-158a-4fef-876b-144066ff695b
+ô
+java:S19893"VHandle the following exception that could be thrown by "convertToString": IOException.(ô–¿ô8≠–êÄ2J$4c265b48-f15c-48b3-bec0-af737ee35852
+ì
+java:S19893"PHandle the following exception that could be thrown by "getReader": IOException.(ô–¿ô8≠–êÄ2J$28bbc937-08df-41ad-a60c-ca6acd527463
+ö
+java:S19895"RHandle the following exception that could be thrown by "getString": JSONException.(π·˜ñˇˇˇˇˇ8Ù≠–êÄ2J$e75f76bf-c5b7-4c40-8121-5daa02a298b9
+ï
+java:S19896"RHandle the following exception that could be thrown by "getString": JSONException.(Ä∆ÔÅ8ı≠–êÄ2J$2029143a-3756-45d3-aded-38693b8ac3b9
+Ç
+java:S19897"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(ÇÊπ™8’’éëÄ2
+ì
+java:S19898"PHandle the following exception that could be thrown by "getWriter": IOException.(Ùπ™Í8¬£çëÄ2J$3f5e654d-7ab6-41ff-86ee-a98cb90edf90
+H
+java:S1128"+Remove this unused import 'java.io.Reader'.(µ˚®È8Ó’éëÄ2

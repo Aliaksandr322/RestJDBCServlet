@@ -1,15 +1,11 @@
 
 ¡
-java:S1488'"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÆÌ…8ŒéÁÅÿ1J$a146d174-fdd2-44e8-8f63-b8df5879a9ca
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‘éÁÅÿ1J$abb7ce0d-0e30-4b55-ab4c-f0fac644ec36
-	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‘éÁÅÿ1J$7abbdc33-fbc2-4053-86ae-e3ec68591c56
+java:S1488$"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÆÌ…8ŒéÁÅÿ1J$63beb205-9547-4016-81d9-074871e85478
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‘éÁÅÿ1J$e0daa3b0-3f8d-412d-9010-797de07faea5
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‘éÁÅÿ1J$6690c2a8-8de3-4fab-aeaf-199ec41cde39
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ıú¦úÿÿÿÿ8”éÁÅÿ1J$cad73dd3-1a57-44dc-8739-d02cdc88707f
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦ıú¦úÿÿÿÿ8”éÁÅÿ1J$192a21c8-8f34-4d61-9a99-8a5abbb2de37
 e
-java:S1118"Hide this public constructor.(¦ıú¦úÿÿÿÿ8™îÅÅÿ1J$f2e446d7-fe1b-423a-a69c-3f10ba20b2ac
+java:S1118"Hide this public constructor.(¦ıú¦úÿÿÿÿ8¯¬˜€2J$2f490abd-5104-4f1a-8715-c4cc802244c6
 p
-java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8×úÂÅÿ1J$b15a0b86-b1ea-4cd2-9467-88248371ae94
-l
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÈîÅÅÿ1J$d041f720-5a5a-4be6-bf4c-4fb041ca970f
-w
-java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ8ÙúÂÅÿ1J$9deb88a7-929d-46fa-976a-fe0ca062210c
+java:S1128"(Remove this unused import 'javax.swing'.(Ìí¿Üüÿÿÿÿ8×úÂÅÿ1J$b84e144b-f437-4e86-a9e3-e0ed5d6e67cc

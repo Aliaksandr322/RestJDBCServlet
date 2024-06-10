@@ -1,6 +1,7 @@
 package dto;
 
 import model.Office;
+import org.json.JSONObject;
 
 import java.util.List;
 import java.util.Objects;
@@ -64,5 +65,8 @@ public class EmployeeDto {
 
     public void setRoleSet(List<String> roleSet) {
         this.roleName = roleSet;
+    }
+    public JSONObject doWork(String output) {
+        return new JSONObject(output);
     }
 }

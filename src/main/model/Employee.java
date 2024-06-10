@@ -71,7 +71,6 @@ public class Employee {
     public List<Role> getRoleSet() {
         return roleSet;
     }
-
     public void setRoleSet(List<Role> roleSet) {
         this.roleSet = roleSet;
     }

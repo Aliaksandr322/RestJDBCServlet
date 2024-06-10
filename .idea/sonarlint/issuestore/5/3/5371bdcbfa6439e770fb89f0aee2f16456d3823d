@@ -1,0 +1,35 @@
+
+a
+java:S5786"Remove this 'public' modifier.(£Ô—ƒ8Ë¦Ô’€2J$54a7ffcf-10e2-46a6-a4a2-03ba0d1530fb
+f
+java:S5786&"Remove this 'public' modifier.(£é¾ªûÿÿÿÿ8Ë¦Ô’€2J$c870d1fd-b67f-40c9-a508-f7b79b14362d
+a
+java:S57861"Remove this 'public' modifier.(“Ğ8Ë¦Ô’€2J$d02f2673-32cb-471c-8a67-2fb858511221
+f
+java:S5786<"Remove this 'public' modifier.(Íê™ßüÿÿÿÿ8Í¦Ô’€2J$85195e73-75af-421b-a3ba-e72bf3c86358
+f
+java:S5786G"Remove this 'public' modifier.(à¯Æìÿÿÿÿÿ8Í¦Ô’€2J$740b403e-1a69-4df6-8a3b-fc0223321411
+f
+java:S5786R"Remove this 'public' modifier.(ƒ·ÄÎùÿÿÿÿ8Î¦Ô’€2J$4de8b826-c183-46bd-8639-1275bb53dfe4
+f
+java:S5786^"Remove this 'public' modifier.(»¦îºùÿÿÿÿ8Î¦Ô’€2J$208a1bd9-2610-4851-945c-94be31d3d2b7
+`
+java:S5786k"Remove this 'public' modifier.(¿ğ…?8Ñ¦Ô’€2J$7a2cd3ab-157e-4ad1-b908-0415c678632a
+a
+java:S5786u"Remove this 'public' modifier.(‘Öñı8Ó¦Ô’€2J$833c0529-1bd5-41ae-b0ab-11ea9ef6581d
+a
+java:S5786"Remove this 'public' modifier.(Ù‹½ö8×¦Ô’€2J$cbe98489-808b-4ec0-aa1e-04b4bc2c720f
+a
+java:S5786"Remove this 'public' modifier.(ÖëÈ“8×¦Ô’€2J$77831f82-9959-4ced-b98e-d28fc7354db3
+
+java:S3415#"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(ü¶›ƒùÿÿÿÿ8İ¦Ô’€2J$7f87de2f-adb1-4cd3-955d-40ee74c36487
+¥
+java:S5778|"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(¦ÂæĞ8æ¦Ô’€2J$6102c238-eefb-4697-8efc-d94caa1be4d0
+x
+java:S1128"0Remove this unused import 'dao.abs.PassportDao'.(Õñó•ùÿÿÿÿ8¹æ’€2J$769277e2-75b5-4653-b98d-49999e56e33c
+x
+java:S1128"5Remove this unused import 'dao.impl.EmployeeDaoImpl'.(¸ÑÅ×8¹æ’€2J$2185c26a-ec7b-4cc9-8440-f9d1214a512b
+y
+java:S1128"1Remove this unused import 'dao.impl.RoleDaoImpl'.(ËæÛÆÿÿÿÿÿ8Ÿ¹æ’€2J$69d50509-9d34-4618-b3f5-357b875c0ba9
+j
+java:S1128"'Remove this unused import 'model.Role'.(ë®¾©8 ¹æ’€2J$f4d9b802-0a28-45c1-87a7-9631889ec244

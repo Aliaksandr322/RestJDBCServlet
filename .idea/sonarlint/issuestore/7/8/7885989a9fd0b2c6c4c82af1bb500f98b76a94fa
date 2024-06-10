@@ -1,0 +1,13 @@
+
+€
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "employeeDto".(»©×Õ8±ùÆ’€2
+y
+java:S1192"WDefine a constant instead of duplicating this literal "id is less or equals 0" 3 times.(ß“âÉúÿÿÿÿ8µùÆ’€2
+E
+java:S3010"(Remove this assignment of "employeeDao".(—««±8¼ùÆ’€2
+A
+java:S3010"$Remove this assignment of "roleDao".(”¼Ô’8¼ùÆ’€2
+R
+java:S2209"5Change this instance-reference to a static reference.(—««±8½ùÆ’€2
+R
+java:S2209"5Change this instance-reference to a static reference.(”¼Ô’8½ùÆ’€2

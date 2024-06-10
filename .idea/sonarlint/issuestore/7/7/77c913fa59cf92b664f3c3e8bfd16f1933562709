@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö±Ç8Ô¸€2J$a9eafeb5-e168-45f3-93a5-6ec496223887
+­
+java:S1989"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(ï©ªšúÿÿÿÿ8ñ¸€2J$800d45d2-de6c-4249-8134-9e5cb22cf8d3
+¡
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(ï©ªšúÿÿÿÿ8§¸€2J$0c2b1cd2-e51b-4332-ae73-5c7f1761d1aa
+“
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¼™½Õ8¨¸€2J$fa91f9b9-3a8f-4919-bae9-b8168044bcb7
+š
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(¥‡½-8¬¸€2J$234f2772-63c4-44ef-922e-b8fc2dcf1cb3
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(‚­åæşÿÿÿÿ8­¸€2J$03e25c1c-d5f4-4d34-ad9d-b0ab0be57aff
+ 
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(äğÕ‚ùÿÿÿÿ8®¸€2J$2ce5a8c3-d0b2-4551-be88-fe831fce3a21

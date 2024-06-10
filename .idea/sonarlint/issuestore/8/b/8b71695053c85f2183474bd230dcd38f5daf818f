@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö±Ç8éã½äÿ1J$1076da17-f4b8-4945-bead-575f8758308c
+­
+java:S1989"eHandle the following exception that could be thrown by "writeValueAsString": JsonProcessingException.(¹Á‡Ğøÿÿÿÿ8Ìª‘äÿ1J$55e1d861-88d1-4d98-adf9-5ac205c8dc6a
+¡
+java:S1989"YHandle the following exception that could be thrown by "parseInt": NumberFormatException.(¹Á‡Ğøÿÿÿÿ8‚«‘äÿ1J$856d4069-5a19-434b-a838-0dcb310b2bfd
+“
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(¼™½Õ8†«‘äÿ1J$71a89d2c-46d7-4ba9-8f19-5b0d1bad9322
