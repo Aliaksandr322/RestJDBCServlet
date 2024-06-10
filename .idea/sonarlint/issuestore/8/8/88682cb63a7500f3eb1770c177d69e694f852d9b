@@ -1,5 +1,14 @@
 
-	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒŞÄÿ1J$82fa390a-aa26-4f02-86e6-95986f6e1e3d
-n
-java:S1168."+Return an empty collection instead of null.(¥¹ï8¾•Üáÿ1J$d4567a20-24e9-40a4-8eaa-f68d83bd57a5
-}	java:S1254"<This block of commented-out lines of code should be removed.(Å¬á&8î•òÄÿ1J$1fdfb5fd-c2da-48ec-ac5d-7f806062e32e
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö¡Ô›€2J$e9ea9c1a-2d46-40f3-bcd5-f22fb60ea54c
+	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö¡Ô›€2J$c92fbf7a-f652-45d6-a9fc-718f21356886
+	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö¡Ô›€2J$06c7c9c1-9265-4b0e-8828-b7f3b887ca61
+	java:S112A"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8÷¡Ô›€2J$b8ef0054-5444-4ce7-89c3-b442802325a3
+	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ö¦Õ›€2J$f1cb2c25-a35e-43d5-82a8-30dba9e68fe9
+„
+java:S11261"AReplace this if-then-else statement by a single return statement.(Ãÿ§ï8ƒ¢Ô›€2J$17ca2af5-9f27-4882-b4f9-0f7cf51ad8e6
+g
+java:S6905K"Don't use the query "SELECT *".(“¥¾Éşÿÿÿÿ8‰§Õ›€2J$1eaa1b58-513f-4d43-beeb-0c256e564675
+I
+java:S1128",Remove this unused import 'dto.EmployeeDto'.(±‹›…8óÖ›€2
+H
+java:S1128"+Remove this unused import 'model.Passport'.(½´®Ò8óÖ›€2

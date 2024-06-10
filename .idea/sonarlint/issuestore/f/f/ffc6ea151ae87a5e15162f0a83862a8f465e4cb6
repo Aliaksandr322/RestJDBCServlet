@@ -1,8 +1,16 @@
 
-`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
-`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
-`	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ
-:
-java:S69052"Don't use the query "SELECT *".(¦ιϊÿÿÿÿ
-q
-java:S6912L"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(Ά©ή‹ύÿÿÿÿ
+†	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$3576a0fd-f5b8-4458-8aa4-74a998be2665
+†	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$5e8ed9ca-6a23-45a7-a568-68d6f7a5a3f6
+†	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚ÒιόÿÿÿÿJ$bea99605-16d1-4fdf-807e-7fe3b6fde698
+	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ζηα™€2J$1430c475-0bdb-41c3-82fb-1358bdc43113
+	java:S112Q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8Ϊ»ζ™€2J$942784ac-4fb3-4ea5-8fc0-63984ff60586
+	java:S112g"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8ψΪό™€2J$acf5bc9c-3d7c-43ac-a17f-5b4c39b2ba73
+	java:S112u"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òιόÿÿÿÿ8‘Ϋ€2J$00323992-a12c-4236-bb99-f129d30d68e5
+„
+java:S11262"AReplace this if-then-else statement by a single return statement.(Γÿ§ο8ΆΫ€2J$17743f39-8a51-46b0-8ce1-2d2330d031bf
+`
+java:S6905K"Don't use the query "SELECT *".(¦ιϊÿÿÿÿJ$e97bea37-50ab-4424-87fb-6cac2554e1e1
+n
+java:S1128"+Remove this unused import 'model.Passport'.(½΄®Ò8άϋ€2J$77447ff3-a1d8-40f1-b1be-dcc61af587c8
+—
+java:S6912`"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(Ά©ή‹ύÿÿÿÿJ$cc2a44f1-447e-46a7-9a80-f55af9344496

@@ -1,20 +1,20 @@
 
-g	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½‚±’€2
-g	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¿‚±’€2
-g	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8À‚±’€2
-g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Á‚±’€2
-g	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Â‚±’€2
-h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ä‚±’€2
-h	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ì‚±’€2
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îƒşœşÿÿÿÿ8×‚±’€2
+	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8½‚±’€2J$6b8bdd2e-1ea9-4359-b42a-d4ba964f79db
+	java:S1126"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¿‚±’€2J$0b83fa6f-0750-4994-91ba-ad4c57297596
+	java:S112F"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8À‚±’€2J$9d578bf3-0138-4942-94c8-c132ef42bf99
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Á‚±’€2J$ec0c6486-ccc5-45f0-bd66-63f39c2a6f83
+	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Â‚±’€2J$8c9ba7de-0a21-4478-af35-2293d488d03b
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ä‚±’€2J$8976af8d-5fb7-43e4-9df9-7a25e270994d
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ì‚±’€2J$59e6b155-2b75-4bec-b68d-a75ef072a094
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îƒşœşÿÿÿÿ8×‚±’€2J$48c810f3-1ee4-4f66-87ed-b55edee19b62
+ˆ
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²­Ã€8Ø‚±’€2J$b5609abf-4aee-4a57-927b-2fc633a04c69
+
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îôûøøÿÿÿÿ8Ù‚±’€2J$e7b65e6e-c35b-4a7c-966d-dd8df4fbef2a
+‡
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ã·”28Ú‚±’€2J$0de488a8-accf-4587-a850-b5bdf7d76b11
+„
+java:S1126A"AReplace this if-then-else statement by a single return statement.(Ãÿ§ï8ò‚±’€2J$2c2153b4-6f94-435a-b8da-7f4cf03d1d60
 b
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²­Ã€8Ø‚±’€2
-g
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Îôûøøÿÿÿÿ8Ù‚±’€2
-a
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ã·”28Ú‚±’€2
-^
-java:S1126A"AReplace this if-then-else statement by a single return statement.(Ãÿ§ï8ò‚±’€2
-<
-java:S6905\"Don't use the query "SELECT *".(Õä××8€ƒ±’€2
+java:S6905\"Don't use the query "SELECT *".(Õä××8€ƒ±’€2J$285eccbd-88df-4a61-b0c0-d7c9edc27c54

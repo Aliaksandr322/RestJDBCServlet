@@ -1,14 +1,15 @@
 package model;
 
+import java.util.List;
 import java.util.Set;
 
 public class Role {
     private int id;
     private String name;
     //TODO Many to Many
-    private Set<Employee> employeesSet;
+    private List<Employee> employeesSet;
 
-    public Role(int id, String name, Set<Employee> employeesSet) {
+    public Role(int id, String name, List<Employee> employeesSet) {
         this.id = id;
         this.name = name;
         this.employeesSet = employeesSet;
@@ -32,11 +33,11 @@ public class Role {
         this.name = name;
     }
 
-    public Set<Employee> getEmployeesSet() {
+    public List<Employee> getEmployeesSet() {
         return employeesSet;
     }
 
-    public void setEmployeesSet(Set<Employee> employeesSet) {
+    public void setEmployeesSet(List<Employee> employeesSet) {
         this.employeesSet = employeesSet;
     }
 }

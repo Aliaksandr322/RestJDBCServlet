@@ -1,13 +1,13 @@
 
-€
-java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "employeeDto".(»©×Õ8±ùÆ’€2
-y
-java:S1192"WDefine a constant instead of duplicating this literal "id is less or equals 0" 3 times.(ß“âÉúÿÿÿÿ8µùÆ’€2
-E
-java:S3010"(Remove this assignment of "employeeDao".(—««±8¼ùÆ’€2
-A
-java:S3010"$Remove this assignment of "roleDao".(”¼Ô’8¼ùÆ’€2
-R
-java:S2209"5Change this instance-reference to a static reference.(—««±8½ùÆ’€2
-R
-java:S2209"5Change this instance-reference to a static reference.(”¼Ô’8½ùÆ’€2
+¦
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "employeeDto".(»©×Õ8±ùÆ’€2J$b1669ec4-6cab-4c73-bb01-3d4e1ca8c915
+Ÿ
+java:S1192"WDefine a constant instead of duplicating this literal "id is less or equals 0" 3 times.(ß“âÉúÿÿÿÿ8µùÆ’€2J$5fa92040-8256-46de-a25c-bb2c470d5c16
+k
+java:S3010"(Remove this assignment of "employeeDao".(—««±8¼ùÆ’€2J$05b5130b-7bbb-4f6c-987c-ce67417ea57d
+g
+java:S3010"$Remove this assignment of "roleDao".(”¼Ô’8¼ùÆ’€2J$70326fd2-226a-44f8-88b1-d98cd380e75d
+x
+java:S2209"5Change this instance-reference to a static reference.(—««±8½ùÆ’€2J$a970f595-a75b-48bf-bc68-485ddb36b913
+x
+java:S2209"5Change this instance-reference to a static reference.(”¼Ô’8½ùÆ’€2J$c7dc919c-0ff8-4a5d-8442-44c7eae8e99f

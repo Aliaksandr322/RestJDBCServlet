@@ -5,10 +5,10 @@ import java.util.Objects;
 public class PassportDto {
     private String firstName;
     private String lastName;
-    private long initId;
+    private int initId;
     private String personalId;
 
-    public PassportDto(String firstName, String lastName, long initId, String personalId) {
+    public PassportDto(String firstName, String lastName, int initId, String personalId) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.initId = initId;
@@ -34,11 +34,11 @@ public class PassportDto {
         this.lastName = lastName;
     }
 
-    public long getInitId() {
+    public int getInitId() {
         return initId;
     }
 
-    public void setInitId(long initId) {
+    public void setInitId(int initId) {
         this.initId = initId;
     }
 

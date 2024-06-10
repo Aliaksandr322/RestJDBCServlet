@@ -1,6 +1,7 @@
 package dao.impl;
 
 import dao.abs.RoleDao;
+import model.Passport;
 import model.Role;
 import utils.JDBCConnection;
 
@@ -13,8 +14,16 @@ import java.util.List;
 
 public class RoleDaoImpl implements RoleDao {
     @Override
-    public boolean create(Role type) {
-        return false;
+    public boolean create(Role role) {
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            String sql = "INSERT INTO `role` (`id`, `name`) " +
+                    "VALUES ('" + role.getId() + "', '" + role.getName() + "')";
+            int count = statement.executeUpdate(sql);
+            return count == 1;
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
@@ -33,13 +42,29 @@ public class RoleDaoImpl implements RoleDao {
     }
 
     @Override
-    public boolean deleteById(Integer key) {
-        return false;
+    public boolean deleteById(Integer id) {
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            deleteFromEmplRole(id);
+            statement.execute("DELETE FROM role where id =" + id);
+            if (findById(id) == null) {
+                return true;
+            }
+            else return false;
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
-    public boolean update(Role type, int id) {
-        return false;
+    public boolean update(Role role, int id) {
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            boolean result = statement.execute("UPDATE employee SET name = '"+role.getName()+"' WHERE id = " + id);
+            return !result;
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
@@ -58,11 +83,6 @@ public class RoleDaoImpl implements RoleDao {
     }
 
 
-
-    @Override
-    public Role findByName(String name) {
-        return null;
-    }
 
     @Override
     public List<Role> findAllRolesByName(List<String> roleNames) {
@@ -89,5 +109,12 @@ public class RoleDaoImpl implements RoleDao {
         role.setName(rs.getString("name"));
         return role;
     }
-
+    private void deleteFromEmplRole(Integer roleId){
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            statement.executeUpdate("DELETE FROM empls_roles WHERE role_id = " + roleId);
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
+    }
 }

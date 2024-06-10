@@ -1,0 +1,11 @@
+
+g
+java:S3010"$Remove this assignment of "roleDao".(”¼Ô’8’Ö›€2J$9eff0198-f09e-4f38-abab-6d91dc325d39
+x
+java:S2209"5Change this instance-reference to a static reference.(”¼Ô’8“Ö›€2J$f1b28f89-e663-46ad-88a4-6c901694ce4f
+R
+java:S1128"0Remove this unused import 'dao.abs.PassportDao'.(Õñó•ùÿÿÿÿ8˜ñä›€2
+I
+java:S1128",Remove this unused import 'dto.PassportDto'.(öÒ¥£8˜ñä›€2
+H
+java:S1128"+Remove this unused import 'model.Passport'.(½´®Ò8›ñä›€2

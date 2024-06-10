@@ -43,13 +43,31 @@ public class PassportDaoImpl implements PassportDao {
     }
 
     @Override
-    public boolean deleteById(Integer key) {
-        return false;
+    public boolean deleteById(Integer id) {
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            statement.execute("DELETE FROM passport where id =" + id);
+            if (findById(id) == null) {
+                return true;
+            }
+            else return false;
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override
-    public boolean update(Passport type, int id) {
-        return false;
+    public boolean update(Passport passport, int id) {
+        try (Connection connection = JDBCConnection.getConnection();
+             Statement statement = connection.createStatement()){
+            boolean result = statement.execute("UPDATE passport SET first_name = '"+passport.getFirstName()+"'," +
+                    " last_name = '" + passport.getLastName() + "',"+"init_id = '" + passport.getInitId() + "',"
+                    + " personal_id ='" + passport.getPersonalId()
+                    + "' WHERE id = " + id);
+            return !result;
+        } catch (SQLException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override

@@ -7,11 +7,11 @@ public class Passport {
     private int id;
     private String firstName;
     private String lastName;
-    private long initId;
+    private int initId;
     private String personalId;
     public Passport(){}
 
-    public Passport(int id, String firstName, String lastName, long initId, String personalId) {
+    public Passport(int id, String firstName, String lastName, int initId, String personalId) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -43,11 +43,11 @@ public class Passport {
         this.lastName = lastName;
     }
 
-    public long getInitId() {
+    public int getInitId() {
         return initId;
     }
 
-    public void setInitId(long initId) {
+    public void setInitId(int initId) {
         this.initId = initId;
     }
 

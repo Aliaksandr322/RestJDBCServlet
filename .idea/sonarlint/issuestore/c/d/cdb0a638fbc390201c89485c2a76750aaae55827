@@ -1,0 +1,33 @@
+
+a
+java:S5786"Remove this 'public' modifier.(ãªî…8›Æœ€2J$5068d68a-509c-421e-b3ed-3ace7594726f
+a
+java:S5786"Remove this 'public' modifier.(Û¢î 8’›Æœ€2J$3672b0f9-9cab-4ee0-bbc1-158d134f0e95
+f
+java:S5786)"Remove this 'public' modifier.(Üù®áùÿÿÿÿ8Û’Îœ€2J$85d0a8af-19e2-4f6d-8eb0-a49b752b8181
+f
+java:S57863"Remove this 'public' modifier.(ªó»Ñùÿÿÿÿ8Û’Îœ€2J$e00e1ae5-d254-4938-8906-a78b3268f03d
+a
+java:S5786="Remove this 'public' modifier.(¢î€Õ8Û’Îœ€2J$71351dd4-ae13-4819-b577-d8387764978b
+a
+java:S5786G"Remove this 'public' modifier.(î«• 8Ü’Îœ€2J$64517bf4-7662-4001-b787-6277a38690ef
+a
+java:S5786R"Remove this 'public' modifier.(ô†ä²8Ü’Îœ€2J$e62c033f-fe3e-445e-982c-d20251b705e7
+f
+java:S5786^"Remove this 'public' modifier.(¥Üò›şÿÿÿÿ8Ü’Îœ€2J$c017a884-1d71-4ef3-8675-d16618ed3217
+f
+java:S5786f"Remove this 'public' modifier.(õ¿ÿûÿÿÿÿ8İ’Îœ€2J$8630c162-a4b4-443e-8ff1-3bac9fd8e9f7
+a
+java:S5786o"Remove this 'public' modifier.(ıç»í8İ’Îœ€2J$0ab79a8a-cda1-4690-aeb7-f3399b2f6bb8
+f
+java:S5786"Remove this 'public' modifier.(»¡•Äøÿÿÿÿ8Ş’Îœ€2J$713470c5-c03c-4025-9f6f-a2e16b096058
+
+java:S3415"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(–•úÿÿÿÿ8ä’Îœ€2J$e0ca1fda-e6b0-4673-8d26-1c05430a9682
+ª
+java:S5778l"bRefactor the code of the lambda to have only one invocation possibly throwing a runtime exception.(ä–º“úÿÿÿÿ8ò’Îœ€2J$10313edc-605f-4940-b96a-d81d7eded631
+x
+java:S1128"0Remove this unused import 'dao.abs.PassportDao'.(Õñó•ùÿÿÿÿ8¥¨İœ€2J$136dd0d4-007f-4c9a-b129-1bc1da8979cb
+o
+java:S1128",Remove this unused import 'dto.PassportDto'.(öÒ¥£8¥¨İœ€2J$a754a208-3040-4c59-b22f-a490d5143b5f
+n
+java:S1128"+Remove this unused import 'model.Passport'.(½´®Ò8¥¨İœ€2J$aef7a173-980a-400e-b7fb-5cae9886e383
