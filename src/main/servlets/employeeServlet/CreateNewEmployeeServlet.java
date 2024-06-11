@@ -29,18 +29,6 @@ public class CreateNewEmployeeServlet extends HttpServlet {
 
     @Override
     public void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-//        StringBuilder body = new StringBuilder();
-//        char[] buffer = new char[1024];
-//        int readChars;
-//        try(Reader reader = req.getReader()){
-//            while ((readChars=reader.read(buffer))!=-1){
-//                body.append(buffer,0, readChars);
-//            }
-//        }catch (NullPointerException e){
-//            e.printStackTrace();
-//        }
-//        JSONObject json = new JSONObject(body.toString());
-//
 
 
         EmployeeDto employeeDto = new EmployeeDto();
