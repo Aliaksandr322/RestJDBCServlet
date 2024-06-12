@@ -36,7 +36,7 @@ public class EmployeeDaoTest {
     @Test
     public void getByIdEmployeeTest(){
         EmployeeDao employeeDao = new EmployeeDaoImpl();
-        assertEquals(employeeDao.findById(6).getName(), "Bob");
+        assertEquals(employeeDao.findById(2).getName(), "Bob");
     }
     @Test
     public void updateByIdEmployeeTest(){

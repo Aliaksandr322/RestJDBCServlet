@@ -10,7 +10,5 @@
 java:S11262"AReplace this if-then-else statement by a single return statement.(Ãÿ§ï8¢Ûš€2J$17743f39-8a51-46b0-8ce1-2d2330d031bf
 `
 java:S6905K"Don't use the query "SELECT *".(¦éŸúÿÿÿÿJ$e97bea37-50ab-4424-87fb-6cac2554e1e1
-n
-java:S1128"+Remove this unused import 'model.Passport'.(½´®Ò8Üûš€2J$77447ff3-a1d8-40f1-b1be-dcc61af587c8
 —
 java:S6912`"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¢©Ş‹ıÿÿÿÿJ$cc2a44f1-447e-46a7-9a80-f55af9344496

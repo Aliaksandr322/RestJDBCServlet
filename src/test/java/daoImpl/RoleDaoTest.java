@@ -37,7 +37,7 @@ public class RoleDaoTest {
     @Test
     public void getByIdRoleTest(){
         RoleDao roleDao = new RoleDaoImpl();
-        assertEquals(roleDao.findById(1).getName(), "Manager");
+        assertEquals(roleDao.findById(2).getName(), "Manager");
     }
     @Test
     public void updateByIdRoleTest(){

@@ -85,3 +85,7 @@ V
 &src/test/java/daoImpl/RoleDaoTest.java,3\a\3a2d9eab0f72f00fdd3662e2c28ff6ce548342fb
 X
 (src/test/java/daoImpl/OfficeDaoTest.java,3\7\374f415e8c664f49efbc92a581f05032d8b15a19
+Q
+!src/main/resources/sqlScripts.sql,0\8\0895704703401ee1895142c0ea56f9a81b3bf932
+X
+(src/main/resources/connection.properties,a\4\a4f5c1b229ea9b9bd465c383485062d11f4ad316

@@ -33,7 +33,7 @@ public class PassportDaoTest {
     @Test
     public void getByIdPassportTest(){
         PassportDao passportDao = new PassportDaoImpl();
-        assertEquals(passportDao.findById(6).getFirstName(), "Bob");
+        assertEquals(passportDao.findById(1).getFirstName(), "Bob");
     }
     @Test
     public void updateByIdPassportTest(){

@@ -34,7 +34,7 @@ public class OfficeDaoTest {
     @Test
     public void getByIdOfficeTest(){
         OfficeDao officeDao = new OfficeDaoImpl();
-        assertEquals("KarlaMarksa 45", officeDao.findById(3).getAddress());
+        assertEquals("KarlaMarksa 35", officeDao.findById(2).getAddress());
     }
     @Test
     public void updateByIdOfficeTest(){
