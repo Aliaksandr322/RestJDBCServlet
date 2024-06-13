@@ -26,7 +26,7 @@ public class ServletTest {
         PrintWriter writer = new PrintWriter(stringWriter);
         GetEmployeeById servlet = new GetEmployeeById();
 
-        when(request.getParameter(any())).thenReturn("6");
+        when(request.getParameter(any())).thenReturn("1");
         when(response.getWriter()).thenReturn(writer);
 
         servlet.doGet(request, response);
