@@ -89,5 +89,3 @@ Q
 !src/main/resources/sqlScripts.sql,0\8\0895704703401ee1895142c0ea56f9a81b3bf932
 X
 (src/main/resources/connection.properties,a\4\a4f5c1b229ea9b9bd465c383485062d11f4ad316
-7
-NewFile,3\a\3aaba3ced482355080b452a30d56297ebea63aaf
